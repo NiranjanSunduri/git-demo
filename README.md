@@ -1,4 +1,4 @@
 # git-demo
 git practice
 
-author : Niranjan
+author : Niranjan Sunduri
